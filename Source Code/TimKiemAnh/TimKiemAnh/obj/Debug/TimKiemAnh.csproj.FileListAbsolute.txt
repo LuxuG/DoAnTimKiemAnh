@@ -1,0 +1,60 @@
+D:\NghienCuu\TimKiemAnh\TimKiemAnh\bin\Debug\TimKiemAnh.exe.config
+D:\NghienCuu\TimKiemAnh\TimKiemAnh\bin\Debug\TimKiemAnh.exe
+D:\NghienCuu\TimKiemAnh\TimKiemAnh\bin\Debug\TimKiemAnh.pdb
+D:\NghienCuu\TimKiemAnh\TimKiemAnh\obj\Debug\TimKiemAnh.csprojResolveAssemblyReference.cache
+D:\NghienCuu\TimKiemAnh\TimKiemAnh\obj\Debug\TimKiemAnh.Form1.resources
+D:\NghienCuu\TimKiemAnh\TimKiemAnh\obj\Debug\TimKiemAnh.Properties.Resources.resources
+D:\NghienCuu\TimKiemAnh\TimKiemAnh\obj\Debug\TimKiemAnh.csproj.GenerateResource.Cache
+D:\NghienCuu\TimKiemAnh\TimKiemAnh\obj\Debug\TimKiemAnh.exe
+D:\NghienCuu\TimKiemAnh\TimKiemAnh\obj\Debug\TimKiemAnh.pdb
+D:\KTDL\TimKiemAnh\TimKiemAnh\bin\Debug\TimKiemAnh.exe.config
+D:\KTDL\TimKiemAnh\TimKiemAnh\obj\Debug\TimKiemAnh.exe
+D:\KTDL\TimKiemAnh\TimKiemAnh\obj\Debug\TimKiemAnh.pdb
+D:\KTDL\TimKiemAnh\TimKiemAnh\bin\Debug\TimKiemAnh.exe
+D:\KTDL\TimKiemAnh\TimKiemAnh\bin\Debug\TimKiemAnh.pdb
+D:\KTDL\TimKiemAnh\TimKiemAnh\obj\Debug\TimKiemAnh.csprojResolveAssemblyReference.cache
+D:\KTDL\TimKiemAnh\TimKiemAnh\obj\Debug\TimKiemAnh.Form1.resources
+D:\KTDL\TimKiemAnh\TimKiemAnh\obj\Debug\TimKiemAnh.Properties.Resources.resources
+D:\KTDL\TimKiemAnh\TimKiemAnh\obj\Debug\TimKiemAnh.csproj.GenerateResource.Cache
+C:\Users\Admin\OneDrive\Desktop\doanKTDL\TimKiemAnh\TimKiemAnh\bin\Debug\TimKiemAnh.exe.config
+C:\Users\Admin\OneDrive\Desktop\doanKTDL\TimKiemAnh\TimKiemAnh\obj\Debug\TimKiemAnh.exe
+C:\Users\Admin\OneDrive\Desktop\doanKTDL\TimKiemAnh\TimKiemAnh\obj\Debug\TimKiemAnh.pdb
+C:\Users\Admin\OneDrive\Desktop\doanKTDL\TimKiemAnh\TimKiemAnh\bin\Debug\TimKiemAnh.exe
+C:\Users\Admin\OneDrive\Desktop\doanKTDL\TimKiemAnh\TimKiemAnh\bin\Debug\TimKiemAnh.pdb
+C:\Users\Admin\OneDrive\Desktop\doanKTDL\TimKiemAnh\TimKiemAnh\obj\Debug\TimKiemAnh.csprojResolveAssemblyReference.cache
+C:\Users\Admin\OneDrive\Desktop\doanKTDL\TimKiemAnh\TimKiemAnh\obj\Debug\TimKiemAnh.Form1.resources
+C:\Users\Admin\OneDrive\Desktop\doanKTDL\TimKiemAnh\TimKiemAnh\obj\Debug\TimKiemAnh.Properties.Resources.resources
+C:\Users\Admin\OneDrive\Desktop\doanKTDL\TimKiemAnh\TimKiemAnh\obj\Debug\TimKiemAnh.csproj.GenerateResource.Cache
+C:\Users\Administrator\Downloads\Tim kiem anh\TimKiemAnh\TimKiemAnh\bin\Debug\TimKiemAnh.exe.config
+C:\Users\Administrator\Downloads\Tim kiem anh\TimKiemAnh\TimKiemAnh\bin\Debug\TimKiemAnh.exe
+C:\Users\Administrator\Downloads\Tim kiem anh\TimKiemAnh\TimKiemAnh\bin\Debug\TimKiemAnh.pdb
+C:\Users\Administrator\Downloads\Tim kiem anh\TimKiemAnh\TimKiemAnh\obj\Debug\TimKiemAnh.csproj.AssemblyReference.cache
+C:\Users\Administrator\Downloads\Tim kiem anh\TimKiemAnh\TimKiemAnh\obj\Debug\TimKiemAnh.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Downloads\Tim kiem anh\TimKiemAnh\TimKiemAnh\obj\Debug\TimKiemAnh.Form1.resources
+C:\Users\Administrator\Downloads\Tim kiem anh\TimKiemAnh\TimKiemAnh\obj\Debug\TimKiemAnh.Properties.Resources.resources
+C:\Users\Administrator\Downloads\Tim kiem anh\TimKiemAnh\TimKiemAnh\obj\Debug\TimKiemAnh.csproj.GenerateResource.cache
+C:\Users\Administrator\Downloads\Tim kiem anh\TimKiemAnh\TimKiemAnh\obj\Debug\TimKiemAnh.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\Tim kiem anh\TimKiemAnh\TimKiemAnh\obj\Debug\TimKiemAnh.exe
+C:\Users\Administrator\Downloads\Tim kiem anh\TimKiemAnh\TimKiemAnh\obj\Debug\TimKiemAnh.pdb
+C:\Users\Administrator\Desktop\LuanVan2023\Source Code\TimKiemAnh\TimKiemAnh\bin\Debug\TimKiemAnh.exe.config
+C:\Users\Administrator\Desktop\LuanVan2023\Source Code\TimKiemAnh\TimKiemAnh\bin\Debug\TimKiemAnh.exe
+C:\Users\Administrator\Desktop\LuanVan2023\Source Code\TimKiemAnh\TimKiemAnh\bin\Debug\TimKiemAnh.pdb
+C:\Users\Administrator\Desktop\LuanVan2023\Source Code\TimKiemAnh\TimKiemAnh\obj\Debug\TimKiemAnh.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\LuanVan2023\Source Code\TimKiemAnh\TimKiemAnh\obj\Debug\TimKiemAnh.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Desktop\LuanVan2023\Source Code\TimKiemAnh\TimKiemAnh\obj\Debug\TimKiemAnh.Form1.resources
+C:\Users\Administrator\Desktop\LuanVan2023\Source Code\TimKiemAnh\TimKiemAnh\obj\Debug\TimKiemAnh.Properties.Resources.resources
+C:\Users\Administrator\Desktop\LuanVan2023\Source Code\TimKiemAnh\TimKiemAnh\obj\Debug\TimKiemAnh.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\LuanVan2023\Source Code\TimKiemAnh\TimKiemAnh\obj\Debug\TimKiemAnh.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\LuanVan2023\Source Code\TimKiemAnh\TimKiemAnh\obj\Debug\TimKiemAnh.exe
+C:\Users\Administrator\Desktop\LuanVan2023\Source Code\TimKiemAnh\TimKiemAnh\obj\Debug\TimKiemAnh.pdb
+C:\Users\Administrator\Downloads\LuanVan2023\Source Code\TimKiemAnh\TimKiemAnh\bin\Debug\TimKiemAnh.exe.config
+C:\Users\Administrator\Downloads\LuanVan2023\Source Code\TimKiemAnh\TimKiemAnh\bin\Debug\TimKiemAnh.exe
+C:\Users\Administrator\Downloads\LuanVan2023\Source Code\TimKiemAnh\TimKiemAnh\bin\Debug\TimKiemAnh.pdb
+C:\Users\Administrator\Downloads\LuanVan2023\Source Code\TimKiemAnh\TimKiemAnh\obj\Debug\TimKiemAnh.csproj.AssemblyReference.cache
+C:\Users\Administrator\Downloads\LuanVan2023\Source Code\TimKiemAnh\TimKiemAnh\obj\Debug\TimKiemAnh.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Downloads\LuanVan2023\Source Code\TimKiemAnh\TimKiemAnh\obj\Debug\TimKiemAnh.Form1.resources
+C:\Users\Administrator\Downloads\LuanVan2023\Source Code\TimKiemAnh\TimKiemAnh\obj\Debug\TimKiemAnh.Properties.Resources.resources
+C:\Users\Administrator\Downloads\LuanVan2023\Source Code\TimKiemAnh\TimKiemAnh\obj\Debug\TimKiemAnh.csproj.GenerateResource.cache
+C:\Users\Administrator\Downloads\LuanVan2023\Source Code\TimKiemAnh\TimKiemAnh\obj\Debug\TimKiemAnh.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\LuanVan2023\Source Code\TimKiemAnh\TimKiemAnh\obj\Debug\TimKiemAnh.exe
+C:\Users\Administrator\Downloads\LuanVan2023\Source Code\TimKiemAnh\TimKiemAnh\obj\Debug\TimKiemAnh.pdb
